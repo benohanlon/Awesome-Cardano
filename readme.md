@@ -20,7 +20,7 @@
 
 ## Contents
 
-- [Platforms](#platforms)
+- [Telegram](#telegram)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
@@ -48,131 +48,14 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-## Platforms
+## Telegram
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+- [Cardano Official](https://t.me/CardanoStakePoolWorkgroup) - Official Cardano Community Telegram Group, managed by the Cardano Foundation with over 18K members.
+- [Cardano Stake Pool Best Practice Workgroup](https://t.me/CardanoStakePoolWorkgroup) - A groupp for stake pool operators with over 4K+ members.
 
 ## Programming Languages
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-	- [Tips](https://github.com/loverajoel/jstips#readme)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
-	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-- [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
-- [PureScript](https://github.com/passy/awesome-purescript#readme)
-- [Go](https://github.com/avelino/awesome-go#readme)
-- [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
-- [Ruby](https://github.com/markets/awesome-ruby#readme)
-- [Clojure](https://github.com/razum2um/awesome-clojure#readme)
-- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
-- [Elixir](https://github.com/h4cc/awesome-elixir#readme)
-- [Elm](https://github.com/sporto/awesome-elm#readme)
-- [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
-- [Julia](https://github.com/svaksha/Julia.jl#readme)
-- [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
-- [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [R](https://github.com/qinwf/awesome-R#readme)
-- [D](https://github.com/zhaopuming/awesome-d#readme)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
-- [Perl](https://github.com/hachiojipm/awesome-perl#readme)
-- [Groovy](https://github.com/kdabir/awesome-groovy#readme)
-- [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
-- [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
-- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
-- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
-- [Assembler](https://github.com/lurumdare/awesome-asm#readme)
-- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
-- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
-- [Crystal](https://github.com/veelenga/awesome-crystal#readme)
-- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
-- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
-- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
-- [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
-- [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
 ## Front-End Development
 
