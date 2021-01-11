@@ -22,17 +22,17 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="awesome.md">What is a Cardano list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
+	<a href="https://twitter.com/CardanoLists">Twitter</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://iohk.io/">Stickers & t-shirts</a>
 </p>
 
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>Follow the <a href="https://twitter.com/CardanoLists">Cardano Lists Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
