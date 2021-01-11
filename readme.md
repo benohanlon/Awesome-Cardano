@@ -8,7 +8,6 @@
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/CardanoLists">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://iohk.io/">Stickers & t-shirts</a>
 </p>
 
 <br>
